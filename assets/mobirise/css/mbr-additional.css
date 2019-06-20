@@ -2546,7 +2546,7 @@ body {
 }
 .cid-rtBGj8Yhsv {
   padding-top: 60px;
-  padding-bottom: 90px;
+  padding-bottom: 15px;
   background-color: #ffffff;
 }
 .cid-rtBGj8Yhsv h2 {
@@ -5838,10 +5838,13 @@ body {
     padding-bottom: 2rem;
   }
 }
+.cid-rtHXAvoWSS .count {
+  text-align: center;
+}
 .cid-rtHZdHh5Ic {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-color: #ffffff;
+  background-color: #cccccc;
 }
 .cid-rtHZdHh5Ic h3 {
   text-align: center;
@@ -5852,9 +5855,6 @@ body {
 }
 .cid-rtHZdHh5Ic .mbr-content-text {
   color: #767676;
-}
-.cid-rtHZdHh5Ic .panel-item {
-  background: #ffffff;
 }
 .cid-rtHZdHh5Ic .card {
   word-wrap: break-word;
